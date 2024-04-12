@@ -1,6 +1,12 @@
 drops {
   android_build_drop {
+<<<<<<< HEAD
     build_id: "T1009588"
+||||||| 6d958a6
+    build_id: "T1009772"
+=======
+    build_id: "T1009843"
+>>>>>>> edf2753c601252a49a310eadc31218ce71dae2c0
     target: "train_build"
     source_file: "mainline-sdks/for-UpsideDownCake-build/current/com.google.android.go.rkpd/sdk/rkpd-sdk-current.zip"
   }
